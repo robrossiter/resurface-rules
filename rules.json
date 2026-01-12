@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "min_app_version": "1.0.0",
+  "expires": "2026-12-31T23:59:59Z",
+  "limits": {
+    "free": { "tags_per_item": 6, "categories_total": 12 },
+    "pro":  { "tags_per_item": 999, "categories_total": 999 }
+  },
+  "feature_flags": {
+    "force_pro_for_testers": true,
+    "enable_paywall_v1": false,
+    "show_icloud_sync_teaser": false
+  },
+  "killswitch": { "disable_new_installs": false, "message": "" }
+}
