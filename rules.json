@@ -4,7 +4,7 @@
   "expires": "2026-12-31T23:59:59Z",
   "limits": {
     "free": { "tags_per_item": 6, "categories_total": 12 },
-    "pro":  { "tags_per_item": 999, "categories_total": 999 }
+    "pro":  { "tags_per_item": 555, "categories_total": 555 }
   },
   "feature_flags": {
     "force_pro_for_testers": false,
