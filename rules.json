@@ -11,5 +11,5 @@
     "enable_paywall_v1": false,
     "show_icloud_sync_teaser": false
   },
- "killswitch": { "disable_new_installs": false, "pause_thin_cloud": true, "message": "" }
+ "killswitch": { "disable_new_installs": false, "pause_thin_cloud": false, "message": "" }
 }
