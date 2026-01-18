@@ -7,7 +7,7 @@
     "pro":  { "tags_per_item": 444, "categories_total": 444 }
   },
   "feature_flags": {
-    "force_pro_for_testers": false,
+    "force_pro_for_testers": true,
     "enable_paywall_v1": false,
     "show_icloud_sync_teaser": false
   },
